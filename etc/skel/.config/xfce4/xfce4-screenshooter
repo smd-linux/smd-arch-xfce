@@ -1,7 +1,7 @@
+app=nomacs
 delay=1
 region=1
 action=1
 show_mouse=0
-title=ArchLinux
 timestamp=TRUE
-app=nomacs
+
